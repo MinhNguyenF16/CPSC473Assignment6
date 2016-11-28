@@ -1,0 +1,12 @@
+{
+  "name": "assignment-4-package",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.15.x",
+    "express": "^4.10.2",
+    "mongoose": "4.6.x",
+    "redis": "^2.1.0",
+    "socket.io": "^1.5.1"
+  }
+}
